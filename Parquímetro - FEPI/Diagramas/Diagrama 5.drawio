@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
+  <diagram name="Página-1" id="UT_l-iig5S8QLGLf5QIV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2rXQm52uxJY04BNXVRVj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-1" target="2rXQm52uxJY04BNXVRVj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-1" value="Solicita extensión" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="150" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-2" target="2rXQm52uxJY04BNXVRVj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-10" value="Discapacidad" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="2rXQm52uxJY04BNXVRVj-7">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-2" target="2rXQm52uxJY04BNXVRVj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-11" value="Residente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="2rXQm52uxJY04BNXVRVj-8">
+          <mxGeometry x="0.7925" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-2" target="2rXQm52uxJY04BNXVRVj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-12" value="Motocicleta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="2rXQm52uxJY04BNXVRVj-9">
+          <mxGeometry x="0.7908" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-2" value="Tipo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-4" target="2rXQm52uxJY04BNXVRVj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-4" value="Placas CDMX válidas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="410" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-5" target="2rXQm52uxJY04BNXVRVj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-5" value="Portal web SEMOVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-6" value="Zona azul únicamente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-13" value="Extensión automática" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="520" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-15" target="2rXQm52uxJY04BNXVRVj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-15" value="Anexa documentos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-17" target="2rXQm52uxJY04BNXVRVj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-17" value="SEMOVI evalua" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-18" target="2rXQm52uxJY04BNXVRVj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-25" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="2rXQm52uxJY04BNXVRVj-23">
+          <mxGeometry x="0.4183" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rXQm52uxJY04BNXVRVj-18" target="2rXQm52uxJY04BNXVRVj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-26" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="2rXQm52uxJY04BNXVRVj-24">
+          <mxGeometry x="0.4882" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-18" value="¿Aprobado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173" y="740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-21" value="Permiso anual válido en perimetro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27" y="870" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rXQm52uxJY04BNXVRVj-22" value="Permiso rechazado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="146" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

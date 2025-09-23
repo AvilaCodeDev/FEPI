@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
+  <diagram name="Página-1" id="UT_l-iig5S8QLGLf5QIV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rPRgRby90MIDYED9M-A3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-1" target="rPRgRby90MIDYED9M-A3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-1" value="&lt;div&gt;Infracción detectada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="90" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-2" target="rPRgRby90MIDYED9M-A3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-2" value="Toma foto evidencia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="200" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-4" target="rPRgRby90MIDYED9M-A3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-4" value="Toma foto evidencia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="310" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-5" target="rPRgRby90MIDYED9M-A3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-5" value="Coloca candado/araña" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="420" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-8" target="rPRgRby90MIDYED9M-A3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-8" value="Genera boleta infracción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="525" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-10" target="rPRgRby90MIDYED9M-A3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-10" value="Crea línea de captura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="630" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-12" target="rPRgRby90MIDYED9M-A3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-12" value="Coloca comprobante en parabrisas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="740" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rPRgRby90MIDYED9M-A3-14" target="rPRgRby90MIDYED9M-A3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-14" value="Registra en sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="850" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRgRby90MIDYED9M-A3-16" value="Infracción aplicada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="960" width="146" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

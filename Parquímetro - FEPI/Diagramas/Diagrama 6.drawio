@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
+  <diagram name="Página-1" id="UT_l-iig5S8QLGLf5QIV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-1" target="uSxYi-gkyfgQKJuYzia7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-1" target="uSxYi-gkyfgQKJuYzia7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-1" value="SEMOVI define zonas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-2" target="uSxYi-gkyfgQKJuYzia7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-2" value="SSC aplica control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-3" target="uSxYi-gkyfgQKJuYzia7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-3" value="SAF gestiona ingresos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-6" target="uSxYi-gkyfgQKJuYzia7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-6" value="Infracciones diaras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-7" target="uSxYi-gkyfgQKJuYzia7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-7" value="Recaudación total" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-10" target="uSxYi-gkyfgQKJuYzia7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-10" value="Ingresos por multas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-11" target="uSxYi-gkyfgQKJuYzia7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-11" value="Ingresos por parquímetros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-14" target="uSxYi-gkyfgQKJuYzia7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-14" target="uSxYi-gkyfgQKJuYzia7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSxYi-gkyfgQKJuYzia7-14" target="uSxYi-gkyfgQKJuYzia7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-14" value="Distribución de recursos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-17" value="53.8% Concesionaria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-18" value="30% Fondo proyectos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSxYi-gkyfgQKJuYzia7-19" value="16.2 % Tesorería" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
